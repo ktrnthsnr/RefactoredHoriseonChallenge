@@ -17,5 +17,3 @@ https://github.com/ktrnthsnr/RefactoredHoriseonChallenge
 ## Screenshot of the site   
 
 ![Mockup](./assets/images/mockup.PNG?raw=true "Horisean website")
-
-![Mockup](./assets/images/mockup.PNG)

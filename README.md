@@ -1,9 +1,21 @@
-# Title: Horiseon Refactored Git Repo
+---
+title: Horiseon Refactored Github Repository
+---
 
 ## Challenge description
 
-> The task for this challenge is to refactor an existing site to make it more accessible.
+* The task for this challenge is to refactor an existing site to make it more accessible.
 
-## Repo location
+## Site and Repo location
 
-<a href="https://ktrnthsnr.github.io/RefactoredHoriseonChallenge/"><img src="./assets/images/mockup.jpg" title="mockup" alt="Horisean_mockup"></a>
+* URL for the site
+https://ktrnthsnr.github.io/RefactoredHoriseonChallenge/
+
+* GitHub file repo
+https://github.com/ktrnthsnr/RefactoredHoriseonChallenge
+
+## Screenshot of the site   
+
+![Mockup](./assets/images/mockup.jpg?raw=true "Horisean website")
+
+![Mockup](./assets/images/mockup.jpg)
